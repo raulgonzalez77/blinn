@@ -8,7 +8,7 @@
 var player = videojs('sa-dev');
   player.brand({
   	image: "https://blogger.googleusercontent.com/img/a/AVvXsEgF-IBaEzWoHJQl3Jzqv60VJQJI1ZNtO6N4B_2n_1Gsh6awZSsA48M8bWr8hUtIauPeO6TJDKD1lBJyBrBWWh9rid-9o-AKXofLG53K0r3NgLJybOO7E4_-GEfJPuzzIMeMIukHn-riMMtWPK5r7CIUHEa5Iz8dJ3KfcIC5JaMOt_dWWkFCwUQzo_G0P7E=s25",
-    title: "Internet Broadcasting Center",
-    destination: "https://www.ibc.biz.id",
+    title: "Blinn College",
+    destination: "https://www.blinn.edu",
     destinationTarget: "_bottom"
   });
